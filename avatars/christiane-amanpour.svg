@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="320" rx="36" fill="#F8FAFC"/>
+  <rect x="18" y="18" width="284" height="284" rx="28" fill="#dbeafe" fill-opacity="0.45"/>
+  <path d="M42 74H278" stroke="#CBD5E1" stroke-opacity="0.55" stroke-width="2" stroke-dasharray="6 10"/>
+  <path d="M48 248H272" stroke="#CBD5E1" stroke-opacity="0.55" stroke-width="2" stroke-dasharray="6 10"/>
+  <path d="M80 68C108 48, 212 48, 240 68" stroke="#0f172a" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="160" cy="120" r="46" stroke="#0f172a" stroke-width="4"/>
+  <path d="M126 88C136 84, 144 84, 152 88" stroke="#0f172a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M168 88C176 84, 184 84, 194 88" stroke="#0f172a" stroke-width="4" stroke-linecap="round"/>
+  <rect x="116" y="88" width="34" height="22" rx="8" stroke="#0f172a" stroke-width="3"/><rect x="170" y="88" width="34" height="22" rx="8" stroke="#0f172a" stroke-width="3"/><path d="M150 99H170" stroke="#0f172a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M160 110V138" stroke="#0f172a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M145 150C152 156, 168 156, 175 150" stroke="#0f172a" stroke-width="4" stroke-linecap="round"/>
+  
+  <path d="M98 162C116 176, 204 176, 222 162" stroke="#0f172a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M116 190C136 206, 184 206, 204 190" stroke="#0f172a" stroke-width="4" stroke-linecap="round"/>
+  <text x="38" y="286" fill="#0f172a" font-size="34" font-family="Georgia, 'Times New Roman', serif" font-weight="700">CA</text>
+  <text x="38" y="306" fill="#475569" font-size="12" font-family="'Segoe UI', Arial, sans-serif">Sketch portrait placeholder</text>
+</svg>

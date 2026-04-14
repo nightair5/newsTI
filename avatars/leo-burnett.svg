@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="320" rx="36" fill="#FAFAF9"/>
+  <rect x="18" y="18" width="284" height="284" rx="28" fill="#FEF3C7" fill-opacity="0.38"/>
+  <path d="M46 76H274" stroke="#CBD5E1" stroke-opacity="0.6" stroke-width="2" stroke-dasharray="6 10"/>
+  <path d="M52 246H268" stroke="#CBD5E1" stroke-opacity="0.6" stroke-width="2" stroke-dasharray="6 10"/>
+  <path d="M94 78C120 50 202 50 226 78" stroke="#292524" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="160" cy="122" r="44" stroke="#292524" stroke-width="4"/>
+  <path d="M132 98C138 92 146 92 152 98" stroke="#292524" stroke-width="4" stroke-linecap="round"/>
+  <path d="M168 98C174 92 182 92 188 98" stroke="#292524" stroke-width="4" stroke-linecap="round"/>
+  <path d="M160 112V138" stroke="#292524" stroke-width="4" stroke-linecap="round"/>
+  <path d="M142 146C148 156 172 156 178 146" stroke="#292524" stroke-width="4" stroke-linecap="round"/>
+  <path d="M110 176C128 194 192 194 210 176" stroke="#292524" stroke-width="4" stroke-linecap="round"/>
+  <path d="M130 194C146 208 176 208 192 194" stroke="#292524" stroke-width="4" stroke-linecap="round"/>
+  <path d="M198 186C214 184 224 192 228 206" stroke="#292524" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="234" cy="210" r="8" stroke="#292524" stroke-width="3"/>
+  <text x="36" y="286" fill="#292524" font-size="30" font-family="Georgia, 'Times New Roman', serif" font-weight="700">LB</text>
+  <text x="36" y="306" fill="#78716C" font-size="12" font-family="'Segoe UI', Arial, sans-serif">Leo Burnett</text>
+</svg>

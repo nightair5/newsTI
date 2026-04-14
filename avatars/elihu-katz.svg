@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320" height="320" viewBox="0 0 320 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="320" rx="36" fill="#FAFAF9"/>
+  <rect x="18" y="18" width="284" height="284" rx="28" fill="#E2E8F0" fill-opacity="0.5"/>
+  <path d="M46 76H274" stroke="#CBD5E1" stroke-opacity="0.6" stroke-width="2" stroke-dasharray="6 10"/>
+  <path d="M52 246H268" stroke="#CBD5E1" stroke-opacity="0.6" stroke-width="2" stroke-dasharray="6 10"/>
+  <path d="M98 76C118 56 202 56 222 76" stroke="#334155" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="160" cy="122" r="44" stroke="#334155" stroke-width="4"/>
+  <circle cx="142" cy="104" r="10" stroke="#334155" stroke-width="3"/>
+  <circle cx="178" cy="104" r="10" stroke="#334155" stroke-width="3"/>
+  <path d="M152 104H168" stroke="#334155" stroke-width="3" stroke-linecap="round"/>
+  <path d="M160 112V138" stroke="#334155" stroke-width="4" stroke-linecap="round"/>
+  <path d="M146 146C150 152 170 152 174 146" stroke="#334155" stroke-width="4" stroke-linecap="round"/>
+  <path d="M140 152C148 160 172 160 180 152" stroke="#334155" stroke-width="3" stroke-linecap="round"/>
+  <path d="M110 176C126 194 194 194 210 176" stroke="#334155" stroke-width="4" stroke-linecap="round"/>
+  <path d="M128 194C144 206 176 206 192 194" stroke="#334155" stroke-width="4" stroke-linecap="round"/>
+  <text x="36" y="286" fill="#334155" font-size="30" font-family="Georgia, 'Times New Roman', serif" font-weight="700">EK</text>
+  <text x="36" y="306" fill="#64748B" font-size="12" font-family="'Segoe UI', Arial, sans-serif">Elihu Katz</text>
+</svg>

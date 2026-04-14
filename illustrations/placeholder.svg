@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="700" fill="#F5F5F4"/>
+  <rect x="140" y="120" width="920" height="460" rx="30" stroke="#1F2937" stroke-width="6"/>
+  <path d="M260 220H940" stroke="#1F2937" stroke-width="6" stroke-linecap="round"/>
+  <path d="M260 300H940" stroke="#1F2937" stroke-width="6" stroke-linecap="round"/>
+  <path d="M260 380H940" stroke="#1F2937" stroke-width="6" stroke-linecap="round"/>
+  <path d="M260 460H700" stroke="#1F2937" stroke-width="6" stroke-linecap="round"/>
+  <text x="140" y="655" fill="#334155" font-size="40" font-family="Georgia, serif">Editorial Sketch Placeholder</text>
+</svg>

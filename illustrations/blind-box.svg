@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="700" fill="#F5F5F4"/>
+  <rect x="120" y="120" width="300" height="300" rx="18" stroke="#1F2937" stroke-width="6"/>
+  <path d="M120 220H420" stroke="#1F2937" stroke-width="6"/>
+  <path d="M220 120V420" stroke="#1F2937" stroke-width="6"/>
+  <rect x="470" y="120" width="300" height="300" rx="18" stroke="#1F2937" stroke-width="6"/>
+  <path d="M470 220H770" stroke="#1F2937" stroke-width="6"/>
+  <path d="M570 120V420" stroke="#1F2937" stroke-width="6"/>
+  <rect x="820" y="120" width="260" height="300" rx="18" stroke="#1F2937" stroke-width="6"/>
+  <path d="M820 220H1080" stroke="#1F2937" stroke-width="6"/>
+  <path d="M910 120V420" stroke="#1F2937" stroke-width="6"/>
+  <circle cx="230" cy="500" r="52" stroke="#1F2937" stroke-width="6"/>
+  <circle cx="600" cy="500" r="52" stroke="#1F2937" stroke-width="6"/>
+  <circle cx="950" cy="500" r="52" stroke="#1F2937" stroke-width="6"/>
+  <path d="M160 560C210 620 250 620 300 560" stroke="#1F2937" stroke-width="6" stroke-linecap="round"/>
+  <path d="M530 560C580 620 620 620 670 560" stroke="#1F2937" stroke-width="6" stroke-linecap="round"/>
+  <path d="M880 560C930 620 970 620 1020 560" stroke="#1F2937" stroke-width="6" stroke-linecap="round"/>
+  <text x="120" y="655" fill="#334155" font-size="40" font-family="Georgia, serif">Blind Box Methodology</text>
+</svg>
